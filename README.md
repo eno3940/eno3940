@@ -1,16 +1,20 @@
-### Hi there 👋
+## 🔥 Projects 
 
-<!--
-**eno3940/eno3940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ Polar-Star (Job Description & Lecture Recommendation)](https://github.com/KDT-AiVENGERS/PolarStar_Info) <br />
+[ AdversarialAttack (Black-Box Adversarial Attack with MI-FGSM )](https://github.com/eno3940/AdversarialAttack) <br />
+[ SAGAN (Generation of Facemasked Faces With GANs) ](https://github.com/eno3940/SAGAN) <br />
 
-Here are some ideas to get you started:
+## In progress..
+[ AutoTrading (AI Stock Auto-Trading)](https://github.com/AutoBuySell) <br />
+[ KDT-hackathon (AI Infant Safety Alert System)](http://k-digitalhackathon.kr/)  <br />
+ Customer Support Inquiry Categorization (Confidential)  <br />
+ Base Station Equipment Performance Prediction (Confidential)  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kaggle
+
+|                Competitions (link to notebook)                 |                                                Ref                                                | Done |
+| :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: |
+|          [COVID_Xray](./Kaggle/blob/main/COVID_Xray.ipynb)           |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-1)                       |  ✅  |
+|       [Discrimination](./Kaggle/blob/main/discrimination.ipynb)       |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-2)                       |  ✅  |
+|     [Animal_detection](./Kaggle/blob/main/AnimalDetection.ipynb)     |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-3)                       |  ✅  |
+
