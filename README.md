@@ -14,7 +14,7 @@
 
 |                Competitions (link to notebook)                 |                                                Ref                                                | Done |
 | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--: |
-|          [COVID_Xray](./Kaggle/blob/main/COVID_Xray.ipynb)           |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-1)                       |  ✅  |
-|       [Discrimination](./Kaggle/blob/main/discrimination.ipynb)       |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-2)                       |  ✅  |
-|     [Animal_detection](./Kaggle/blob/main/AnimalDetection.ipynb)     |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-3)                       |  ✅  |
+|          [COVID_Xray](https://github.com/eno3940/Kaggle/blob/main/COVID_Xray.ipynb)           |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-1)                       |  ✅  |
+|       [Discrimination](https://github.com/eno3940/Kaggle/blob/main/discrimination.ipynb)       |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-2)                       |  ✅  |
+|     [Animal_detection](https://github.com/eno3940/Kaggle/blob/main/AnimalDetection.ipynb)     |                       [Kaggle](https://www.kaggle.com/competitions/kdtai-3)                       |  ✅  |
 
